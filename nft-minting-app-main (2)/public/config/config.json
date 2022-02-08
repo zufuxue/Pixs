@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x44482A93b34138Ad156f158F67dd1F6bfa483619",
+  "SCAN_LINK": "https://oasis.cash/collection/0x44482A93b34138Ad156f158F67dd1F6bfa483619",
+  "NETWORK": {
+    "NAME": "Smart Bitcoin Cash",
+    "SYMBOL": "BCH",
+    "ID": 10000
+  },
+  "NFT_NAME": "Pixs RPG: Character Card",
+  "SYMBOL": "RP",
+  "MAX_SUPPLY": 2010,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OASIS",
+  "MARKETPLACE_LINK": "https://oasis.cash/collection/0x44482A93b34138Ad156f158F67dd1F6bfa483619",
+  "SHOW_BACKGROUND": true
+}
